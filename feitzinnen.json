@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Spoon",
+    "template": "There is a spoon in the movie matrix, according to <val1>.",
+    "model": "The Matrix",
+    "in-casetalk": "yes",
+    "definition": "Lorem ipsum dolor sit amet.",
+    "version": "Concept",
+    "author": "Roy",
+    "data": [
+      [ "Neo" ],
+      [ "Trinity" ],
+      [ "Morpheus" ]
+    ]
+  },
+
+  {
+    "title": "Oracle",
+    "template": "The oracle says to <val1>: the real question is, would you've dropped the vase if I didn't tell you <val2>?",
+    "model": "The Oracle",
+    "in-casetalk": "no",
+    "definition": "Lorem ipsum dolor sit amet.",
+    "version": "Concept",
+    "author": "Roy Maassen",
+    "tags": ["Azure", "Subscription"],
+    "data": [
+      [ "the man", "Neo" ],
+      [ "the woman", "Trinity" ],
+      [ "the man", "Morpheus" ]
+    ]
+  }
+
+]
